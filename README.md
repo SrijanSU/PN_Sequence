@@ -56,7 +56,7 @@ The script does not verify that the two polynomials form a preferred pair, so th
 | File | Role |
 |---|---|
 | `pnsequence.m` | Contains `generate_gold_sequence`, LFSR generation, and property checks |
-| `IMG20220405101910.jpg` | Image in the repository; |
+
 
 `check_autocorrelation` creates two plots. The script does not save figure files.
 
